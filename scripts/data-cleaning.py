@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the dataset
-file_path = 'nvda_stock_data.csv'  # Using raw string
+file_path = 'nvda_stock_data.csv'
 data = pd.read_csv(file_path)
 
 # Display the first few rows of the dataset
