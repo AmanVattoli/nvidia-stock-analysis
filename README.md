@@ -31,14 +31,14 @@ Below are the key visualizations from the project.
 ### Visualizations
 
 #### NVIDIA Stock Closing Prices and 30-Day Moving Average
-![NVIDIA Stock Closing Prices and 30-Day Moving Average](https://github.com/AmanVattoli/nvidia-stocks-analysis/assets/119834364/9a9fd395-5011-4269-a84d-0f1c2e17c5ac)
+![NVIDIA Stock Closing Prices and 30-Day Moving Average](https://github.com/user-attachments/assets/30f9480d-3de5-4cda-8d14-5aab66110cd6)
 
 **Analysis**:
 - **Upward Slope**: From 2020 to 2024, NVIDIA's stock shows a significant upward trend, indicating strong positive performance.
 - **Performance**: NVIDIA's stock has performed exceptionally well, signifying strong investor confidence and company growth.
 
 #### Monthly Trading Volume of NVIDIA Stock
-![Monthly Trading Volume of NVIDIA Stock](https://github.com/AmanVattoli/nvidia-stocks-analysis/assets/119834364/32e7bd79-2863-4682-9d33-d881ab650b55)
+![Monthly Trading Volume of NVIDIA Stock](https://github.com/user-attachments/assets/25dfbb1f-7ed0-4006-af94-27f2248764e3)
 
 **Analysis**:
 - **Overall Trading Volume Trends**: Noticeable increase in trading volume from 2020 to 2024 with significant fluctuations indicating varying levels of investor activity.
